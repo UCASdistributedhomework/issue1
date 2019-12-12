@@ -1,0 +1,10 @@
+{
+  "name": "P",
+  "thsPort": ":8080",
+  "channel": [
+    {
+      "nxtPort": ":8081",
+      "seqName": "1"
+    }
+  ]
+}
